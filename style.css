@@ -17,7 +17,7 @@ body {
 }
 
 header {
-    background-color: #48c5ce;
+    background-color: #008F8C;
     text-align: center;
     color: white;
     padding:10px;
@@ -29,7 +29,7 @@ header {
 
 section {
     padding: 20px;
-    background-image: url('images/pexels-pavel-danilyuk-8761523.jpg');
+    background-image: url('images/pexels-anete-lusina-5240547.jpg');
     background-size: cover;
    /*escondir a seção que estava por cima da imagem com overflow: hidden;*/
     overflow: hidden;
@@ -76,7 +76,7 @@ select {
 /*Esse estilo serve apenas para todos os  intut do tipo submit*/
 input[type="submit"]{
     color:white;
-    background-color: #48c5ce;
+    background-color: #008F8C;
     font-weight: bold;
 }
 
